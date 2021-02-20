@@ -4,11 +4,12 @@
 2. HTML Web Scraping using some tool like bs4
 
 **Required Modules.** 
-pip install requests      **fetched HTML using requests as an string using get() function in requests module**
 
-pip install html5lib      **html5lib is a pure-python library for parsing HTML**
+# pip install requests                                              **fetched HTML using requests as an string using get() function in requests module**
 
-pip install bs4           **Beautiful Soup is a Python library for pulling data out of HTML and XML files**
+# pip install html5lib                                              **html5lib is a pure-python library for parsing HTML**
+
+# pip install bs4                                                   **Beautiful Soup is a Python library for pulling data out of HTML and XML files**
 
 
 we can fetched HTML using requests as an string using get() function in requests module. 
